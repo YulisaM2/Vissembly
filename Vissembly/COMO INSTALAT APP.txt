@@ -1,0 +1,3 @@
+Solamente debe de dar click en SetUp2.msi, y presionar el botón Reparar. 
+La instalación de la aplicación se realizará entonces y podrá encontrar nuestro proyecto en su escritorio, el shortcut se llamará vissembly.
+¡Gracias por leer!
